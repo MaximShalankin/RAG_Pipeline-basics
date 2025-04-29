@@ -1,7 +1,7 @@
 # RAG Pipeline - basics
 **общая схема и точки улучшения для RAG Pipeline**
 
-![alt text](img/rag_schema.png)
+![alt text](img/rag_schema_v2.png)
 
 | Block      | Potential Improvements |
 |-----------|-------|
